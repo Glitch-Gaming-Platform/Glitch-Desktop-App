@@ -6,9 +6,9 @@ Overall, the Glitch Project is an open-source live gaming community designed to 
 
 You can view various aspects of the project such as:
 
-**Backend**: https://github.com/Glitch-Gaming-Platform/Glitch-PHP-Backend
-**Frontend**: https://github.com/Glitch-Gaming-Platform/Glitch-React-Frontend
-**Javascript SDK**: https://github.com/Glitch-Gaming-Platform/Glitch-Javascript-SDK
+- **Backend**: https://github.com/Glitch-Gaming-Platform/Glitch-PHP-Backend
+- **Frontend**: https://github.com/Glitch-Gaming-Platform/Glitch-React-Frontend
+- **Javascript SDK**: https://github.com/Glitch-Gaming-Platform/Glitch-Javascript-SDK
 
 ## What Is the The Live Streaming App?
 
