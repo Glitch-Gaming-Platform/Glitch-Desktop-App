@@ -1,8 +1,14 @@
-## Glitch Live Streaming Desktop 
+# Glitch Live Streaming Desktop App
 
 ## What Is The Glitch Project?
 
 Overall, the Glitch Project is an open-source live gaming community designed to help game publishers increase engagement and monetization. The platform creates environments where like-minded users can congregate to create streams, host tournaments, and produce content. The owner (i.e., the game publisher) of the community can then monetize this user-generated content (UGC), creating a mutually beneficial relationship between the publisher/developer and the fans.
+
+You can view various aspects of the project such as:
+
+**Backend**: https://github.com/Glitch-Gaming-Platform/Glitch-PHP-Backend
+**Frontend**: https://github.com/Glitch-Gaming-Platform/Glitch-React-Frontend
+**Javascript SDK**: https://github.com/Glitch-Gaming-Platform/Glitch-Javascript-SDK
 
 ## What Is the The Live Streaming App?
 
