@@ -1,4 +1,4 @@
-# Glitch Live Streaming Desktop App
+# Glitch Gaming Studio Desktop App
 
 ## What Is The Glitch Project?
 
@@ -10,13 +10,16 @@ You can view various aspects of the project such as:
 - **Frontend**: https://github.com/Glitch-Gaming-Platform/Glitch-React-Frontend
 - **Javascript SDK**: https://github.com/Glitch-Gaming-Platform/Glitch-Javascript-SDK
 
-## What Is the The Live Streaming App?
+## What Is the Desktop App?
 
-The live streaming application is an application that is donwloaded to your computer and allows you to stream live!
+Glitch Gaming Studio is the desktop app for playing supported Glitch games,
+streaming gameplay, recording sessions, and creating clips from one Windows or
+Linux install.
 
 🚀 **Quick Start**:
+- Launch supported Glitch games directly from the desktop app.
 - Streamline your gaming broadcasts effortlessly.
-- Go live in just 3 easy steps!
+- Go live or record in just a few steps.
 
 💰 **Monetize Your Streams**:
 - Share a unique link for fans to join and tip.
@@ -29,10 +32,18 @@ The live streaming application is an application that is donwloaded to your comp
 - Brand your streams with personalized overlays and graphics.
 
 🖥️ **Available on Multiple Platforms**:
-- Download now for Windows and Mac.
+- Download now for Windows and Linux.
 - Stream and record at up to 120 FPS. Experience unparalleled detail.
-- Dive into an array of additional online streaming tools.
+- Use the same app for game playback, streaming, recording, and clips.
 
 ## Download
 
-To download the app, use the 'Releases' section in this repo.
+To download the app, use the **Latest** entry in this repo's Releases section:
+
+https://github.com/Glitch-Gaming-Platform/Glitch-Desktop-App/releases/latest
+
+The release artifacts are published by the
+`Glitch-Gaming-Platform/Glitch-Electron` production workflow. The current
+deployment track is Windows and Linux only. The Glitch website reads GitHub's
+latest-release API at runtime, so once a new release such as `v1.8.7` is marked
+latest here, the website download section can surface that version dynamically.
